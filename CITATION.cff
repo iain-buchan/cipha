@@ -1,0 +1,102 @@
+cff-version: 1.2.0
+message: >-
+  If you use code or data from this repository, please cite the paper it
+  belongs to (given in each folder's README) and this repository.
+title: >-
+  CIPHA: code and data from the COVID-19 research of Combined Intelligence
+  for Population Health Action, Cheshire and Merseyside
+type: software
+authors:
+  - family-names: Buchan
+    given-names: Iain E.
+    orcid: https://orcid.org/0000-0003-3392-1650
+    affiliation: University of Liverpool
+repository-code: https://github.com/iain-buchan/cipha
+url: https://github.com/iain-buchan/cipha
+license: MIT
+keywords:
+  - COVID-19
+  - SARS-CoV-2
+  - lateral flow testing
+  - synthetic control
+  - population health
+  - Cheshire and Merseyside
+  - Liverpool
+  - CIPHA
+references:
+  - type: article
+    title: >-
+      Evaluating social and spatial inequalities of large scale rapid lateral
+      flow SARS-CoV-2 antigen testing in COVID-19 management: An observational
+      study of Liverpool, UK (November 2020 to January 2021)
+    doi: 10.1016/j.lanepe.2021.100107
+    journal: The Lancet Regional Health - Europe
+    year: 2021
+    authors:
+      - family-names: Green
+        given-names: Mark A.
+  - type: article
+    title: >-
+      Impact of community asymptomatic rapid antigen testing on covid-19
+      related hospital admissions: synthetic control study
+    doi: 10.1136/bmj-2022-071374
+    journal: BMJ
+    year: 2022
+    authors:
+      - family-names: Zhang
+        given-names: Xingna
+  - type: article
+    title: >-
+      Changing patterns of SARS-CoV-2 infection through Delta and Omicron waves
+      by vaccination status, previous infection and neighbourhood deprivation:
+      a cohort analysis of 2.7 M people
+    doi: 10.1186/s12879-022-07878-2
+    journal: BMC Infectious Diseases
+    year: 2022
+    authors:
+      - family-names: Green
+        given-names: Mark A.
+  - type: article
+    title: >-
+      Evaluating the impact of using mobile vaccination units to increase
+      COVID-19 vaccination uptake in Cheshire and Merseyside, UK: a synthetic
+      control analysis
+    doi: 10.1136/bmjopen-2023-071852
+    journal: BMJ Open
+    year: 2023
+    authors:
+      - family-names: Zhang
+        given-names: Xingna
+  - type: article
+    title: >-
+      Can self-testing be enhanced to hasten safe return of healthcare workers
+      in pandemics? Random order, open label trial using two manufacturers'
+      SARS-CoV-2 lateral flow devices concurrently and nested viral culture
+      study
+    doi: 10.1186/s12879-024-10155-z
+    journal: BMC Infectious Diseases
+    year: 2024
+    authors:
+      - family-names: Zhang
+        given-names: Xingna
+  - type: article
+    title: >-
+      Impact of tiered restrictions in December 2020 on COVID-19
+      hospitalisations in England: a synthetic control study
+    doi: 10.1136/bmjopen-2024-086802
+    journal: BMJ Open
+    year: 2025
+    authors:
+      - family-names: Zhang
+        given-names: Xingna
+  - type: article
+    title: >-
+      Recalibrating SARS-CoV-2 antigen rapid lateral flow test relative
+      sensitivity from validation studies to absolute sensitivity for
+      indicating individuals shedding transmissible virus
+    doi: 10.2147/CLEP.S311977
+    journal: Clinical Epidemiology
+    year: 2021
+    authors:
+      - family-names: Petersen
+        given-names: Irene

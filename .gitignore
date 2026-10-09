@@ -1,0 +1,25 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+.Ruserdata
+
+# Python
+__pycache__/
+*.pyc
+
+# Local copies of access-controlled data: never commit
+# (the placeholder folders match the defaults used in the scripts)
+raw_data/
+data/admissions_msoa/
+data/project/
+data/sharing/
+*.RData
+*.rds
+
+# Editors and OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
