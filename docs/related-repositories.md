@@ -9,9 +9,9 @@ Code held by other groups and consortia that the papers in `publications.md` dep
 | https://github.com/markagreen/asymptomatic_testing_evaluation | `papers/2021-lft-inequalities-liverpool/` | MIT |
 | https://github.com/markagreen/mapping_test_accessibility | `papers/2021-test-site-accessibility/` | MIT |
 | https://github.com/markagreen/social_flip_COVID-19 | `papers/2022-delta-omicron-cohort/` | MIT |
-| https://github.com/civicdatacoop/COVID-SMART-in-Liverpool | `papers/2022-asymptomatic-testing-admissions/` | none stated |
-| https://github.com/civicdatacoop/mobileVaxUnit | `papers/2023-mobile-vaccination-units/` | none stated |
-| https://github.com/civicdatacoop/tier3_covid_hospitalisation | `papers/2025-tier3-hospitalisations/` | none stated |
+| https://github.com/civicdatacoop/COVID-SMART-in-Liverpool | `papers/2022-asymptomatic-testing-admissions/` | MIT (released by the Cooperative, 9 October 2026; see `ATTRIBUTION.md`) |
+| https://github.com/civicdatacoop/mobileVaxUnit | `papers/2023-mobile-vaccination-units/` | MIT (as above) |
+| https://github.com/civicdatacoop/tier3_covid_hospitalisation | `papers/2025-tier3-hospitalisations/` | MIT (as above) |
 
 ## Consortium and national infrastructure code
 

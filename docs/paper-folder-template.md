@@ -32,6 +32,6 @@ Alphabetical list of packages the scripts load (`grep -h -o -E "library\([A-Za-z
 Checklist before committing:
 
 - no record-level data, credentials, API keys or personal file paths in the scripts (search for `Users/`, `OneDrive`, `/Volumes/`, `@`, `key`, `token`)
-- original licence file kept alongside imported code; licence confirmed with the authors if the source had none
+- original licence file kept alongside imported code; if the source had none, an MIT `LICENSE` naming the authors (and the Civic Data Cooperative for its repositories) added with the authors’ agreement
 - row added to `ATTRIBUTION.md`
 - status updated in `docs/publications.md`

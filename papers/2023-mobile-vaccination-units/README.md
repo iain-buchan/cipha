@@ -4,7 +4,7 @@
 
 **What it does.** Builds LSOA-level intervention and comparison groups from mobile vaccination unit deployment records (geocoded from postcodes with PostcodesioR), derives a balanced LSOA panel from the CIPHA vaccination data, estimates the effect of the units on uptake with synthetic control (microsynth, permutation and jackknife inference), then runs individual-level analyses with interactions, cumulative-uptake figures by ethnicity and local authority, and sensitivity analyses (excluding ethnicity, excluding pop-in sites, distance thresholds and spatial spill-over, individual-level survival analysis), with the maps in the paper.
 
-**Source.** Copied from https://github.com/civicdatacoop/mobileVaxUnit (commit `53cadb6c`, 6 August 2023), the repository named in the paper’s data availability statement. Author: Xingna Zhang. File paths were already masked by the author. **No licence file was present in the source repository**; the authors’ agreement is needed before this folder is treated as covered by the repository’s MIT licence (see `ATTRIBUTION.md`). Scripts are unchanged.
+**Source.** Copied from https://github.com/civicdatacoop/mobileVaxUnit (commit `53cadb6c`, 6 August 2023), the repository named in the paper’s data availability statement. Author: Xingna Zhang. File paths were already masked by the author. The source repository carried no licence file; the Civic Data Cooperative released the code under the MIT licence on 9 October 2026, recorded in this folder’s `LICENSE` (copyright (c) 2023 Xingna Zhang and the Liverpool City Region Civic Data Cooperative, University of Liverpool) and in `ATTRIBUTION.md`. Scripts are unchanged.
 
 ## Scripts
 

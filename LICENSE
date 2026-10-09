@@ -22,13 +22,12 @@ SOFTWARE.
 
 ---
 
-Scope. This licence covers the files written for this repository and the
-folders imported from Mark Green's repositories, which were published under
-the MIT licence and keep their own copyright notices (see ATTRIBUTION.md).
-The folders imported from the Liverpool City Region Civic Data Cooperative's
-repositories (papers/2022-asymptomatic-testing-admissions,
-papers/2023-mobile-vaccination-units, papers/2025-tier3-hospitalisations)
-were published without a licence and remain under their authors' copyright
-until the authors confirm the terms. The study documents and anonymised data
-for SMART Release & Return are shared under the terms described in the
+Scope. This licence covers the files written for this repository. The
+imported folders under papers/ are also MIT-licensed and each keeps its own
+copyright notice in a LICENSE file: the folders from Mark Green's
+repositories (copyright Mark A Green) and the folders from the Liverpool City
+Region Civic Data Cooperative's repositories (copyright the authors and the
+Cooperative, University of Liverpool), released under MIT by the Cooperative
+on 9 October 2026. See ATTRIBUTION.md. The study documents and anonymised
+data for SMART Release & Return are shared under the terms described in the
 published paper's data availability statement.

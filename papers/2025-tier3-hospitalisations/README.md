@@ -6,7 +6,7 @@ Related earlier paper on cases rather than admissions, whose code is not yet pub
 
 **What it does.** Compares weekly COVID-19 admissions in MSOAs placed in tier 3 on 2 December 2020 with a synthetic control built from tier 2 areas (microsynth, with permutation and jackknife inference), with subgroup analyses by deprivation and by the Alpha (new variant) period, sensitivity analyses (removing the 182 Kent MSOAs; including the 200 Liverpool City Region MSOAs and the 142 high-testing MSOAs; spatial spill-over), and the maps, figures and tables in the paper.
 
-**Source.** Copied from https://github.com/civicdatacoop/tier3_covid_hospitalisation (commit `6563c393`, 30 January 2024), the repository named in the preprint’s data availability statement. Author: Xingna Zhang. File paths were already masked by the author (`filepath.a`, `filepath.b`, `filepath.c`). **No licence file was present in the source repository**; the authors’ agreement is needed before this folder is treated as covered by the repository’s MIT licence (see `ATTRIBUTION.md`). Script unchanged.
+**Source.** Copied from https://github.com/civicdatacoop/tier3_covid_hospitalisation (commit `6563c393`, 30 January 2024), the repository named in the preprint’s data availability statement. Author: Xingna Zhang. File paths were already masked by the author (`filepath.a`, `filepath.b`, `filepath.c`). The source repository carried no licence file; the Civic Data Cooperative released the code under the MIT licence on 9 October 2026, recorded in this folder’s `LICENSE` (copyright (c) 2024 Xingna Zhang and the Liverpool City Region Civic Data Cooperative, University of Liverpool) and in `ATTRIBUTION.md`. Script unchanged.
 
 ## Script
 
