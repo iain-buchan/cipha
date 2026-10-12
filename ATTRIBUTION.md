@@ -24,6 +24,19 @@ The three source repositories in the Liverpool City Region Civic Data Cooperativ
 
 The four scripts for the Liverpool community testing papers were supplied directly by their author, David Hughes (University of Liverpool), on 12 October 2026, in response to the request that they be published here under the MIT licence with a copyright line naming him. They are his interactive working scripts as run for the published analyses; the only changes are the path replacements, line-ending normalisation and the commenting-out of pasted console output recorded above, each marked in the file.
 
+## Licence scope
+
+This licence covers the files written for this repository. The
+imported folders under papers/ are also MIT-licensed and each keeps its own
+copyright notice in a LICENSE file: the folders from Mark Green’s
+repositories (copyright Mark A Green), the folders from the Liverpool City
+Region Civic Data Cooperative’s repositories (copyright the authors and the
+Cooperative, University of Liverpool), released under MIT by the Cooperative
+on 9 October 2026, and the folders of David Hughes’s scripts (copyright
+David M Hughes), released under MIT on 12 October 2026. See ATTRIBUTION.md. The study documents and anonymised
+data for SMART Release & Return are shared under the terms described in the
+published paper’s data availability statement.
+
 ## How provenance is recorded
 
 Commits are the short SHA of the source repository’s default branch at the time of copying (9 October 2026). To check a file against its source, clone the source repository at that commit and diff against the folder here.
