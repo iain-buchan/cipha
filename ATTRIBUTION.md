@@ -33,7 +33,7 @@ repositories (copyright Mark A Green), the folders from the Liverpool City
 Region Civic Data Cooperative’s repositories (copyright the authors and the
 Cooperative, University of Liverpool), released under MIT by the Cooperative
 on 9 October 2026, and the folders of David Hughes’s scripts (copyright
-David M Hughes), released under MIT on 12 October 2026. See ATTRIBUTION.md. The study documents and anonymised
+David M Hughes), released under MIT on 12 October 2026. The study documents and anonymised
 data for SMART Release & Return are shared under the terms described in the
 published paper’s data availability statement.
 
