@@ -100,3 +100,44 @@ references:
     authors:
       - family-names: Petersen
         given-names: Irene
+  - type: article
+    title: >-
+      Performance of the Innova SARS-CoV-2 antigen rapid lateral flow test in
+      the Liverpool asymptomatic testing pilot: population based cohort study
+    doi: 10.1136/bmj.n1637
+    journal: BMJ
+    year: 2021
+    authors:
+      - family-names: García-Fiñana
+        given-names: Marta
+  - type: article
+    title: >-
+      Rapid antigen testing in COVID-19 management for school-aged children:
+      an observational study in Cheshire and Merseyside, UK
+    doi: 10.1093/pubmed/fdac003
+    journal: Journal of Public Health
+    year: 2022
+    authors:
+      - family-names: Hughes
+        given-names: David M.
+  - type: article
+    title: >-
+      Daily testing of contacts of SARS-CoV-2 infected cases as an alternative
+      to quarantine for key workers in Liverpool: A prospective cohort study
+    doi: 10.1016/j.eclinm.2022.101519
+    journal: EClinicalMedicine
+    year: 2022
+    authors:
+      - family-names: Marsden
+        given-names: Lewis
+  - type: article
+    title: >-
+      Association of SARS-CoV-2 viral load distributions with individual
+      demographics and suspected variant type: results from the Liverpool
+      community testing pilot, England, 6 November 2020 to 8 September 2021
+    doi: 10.2807/1560-7917.ES.2023.28.4.2200129
+    journal: Euro Surveillance
+    year: 2023
+    authors:
+      - family-names: Hughes
+        given-names: David M.

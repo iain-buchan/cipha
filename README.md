@@ -10,11 +10,15 @@ CIPHA was built at pace in 2020 as the Liverpool City Region’s data science re
 
 | Folder | Paper or output | Origin |
 |---|---|---|
+| `papers/2021-innova-lft-performance/` | García-Fiñana et al., *BMJ* 2021: Innova lateral flow test performance in the Liverpool pilot, including the DHSC quality assurance analyses | David Hughes, MIT |
 | `papers/2021-lft-inequalities-liverpool/` | Green et al., *Lancet Reg Health Eur* 2021: social and spatial inequalities in lateral flow testing | Mark Green, MIT |
 | `papers/2021-test-site-accessibility/` | Green, *People, Place and Policy* 2021 and the Liverpool pilot evaluation: test-site accessibility and location-allocation | Mark Green, MIT |
 | `papers/2022-asymptomatic-testing-admissions/` | Zhang et al., *BMJ* 2022: synthetic control of hospital admissions during community testing | Civic Data Cooperative, MIT |
+| `papers/2022-daily-contact-testing-key-workers/` | Marsden et al., *EClinicalMedicine* 2022: daily testing of contacts as an alternative to quarantine for key workers | David Hughes, MIT |
 | `papers/2022-delta-omicron-cohort/` | Green et al., *BMC Infect Dis* 2022: 2.7M-person cohort through Delta and Omicron | Mark Green, MIT |
+| `papers/2022-school-aged-children-testing/` | Hughes et al., *J Public Health* 2022: rapid antigen testing for school-aged children | David Hughes, MIT |
 | `papers/2023-mobile-vaccination-units/` | Zhang et al., *BMJ Open* 2023: mobile vaccination units, synthetic control | Civic Data Cooperative, MIT |
+| `papers/2023-viral-load-distributions/` | Hughes et al., *Euro Surveill* 2023: viral load (Ct) distributions by demographics and suspected variant | David Hughes, MIT |
 | `papers/2024-smart-release-return/` | Zhang et al., *BMC Infect Dis* 2024: daily dual lateral flow self-testing for NHS staff (protocol, SAP, anonymised data at the repository root) | This repository |
 | `papers/2025-tier3-hospitalisations/` | Zhang et al., *BMJ Open* 2025: December 2020 tiers and hospitalisations, synthetic control | Civic Data Cooperative, MIT |
 | `methods/lft-sensitivity-recalibration/` | Petersen et al., *Clin Epidemiol* 2021: recalibrating PCR-relative to absolute lateral flow test sensitivity (R and Python, tested against the paper) | This repository |
@@ -36,7 +40,7 @@ Each paper folder is self-contained: a README with the citation, what the analys
 
 ## Licence
 
-Everything in this repository is released under the MIT licence (see `LICENSE`). Each imported folder keeps its own copyright notice in a `LICENSE` file: the folders from Mark Green’s repositories are copyright Mark A Green, and the three folders from the Liverpool City Region Civic Data Cooperative’s repositories are copyright their authors and the Cooperative (University of Liverpool), which released them under MIT on 9 October 2026. The SMART Release & Return anonymised data are shared as described in the paper’s data availability statement.
+Everything in this repository is released under the MIT licence (see `LICENSE`). Each imported folder keeps its own copyright notice in a `LICENSE` file: the folders from Mark Green’s repositories are copyright Mark A Green, the three folders from the Liverpool City Region Civic Data Cooperative’s repositories are copyright their authors and the Cooperative (University of Liverpool), which released them under MIT on 9 October 2026, and the four folders of David Hughes’s scripts are copyright David M Hughes. The SMART Release & Return anonymised data are shared as described in the paper’s data availability statement.
 
 ## Citing
 

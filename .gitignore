@@ -12,6 +12,7 @@ __pycache__/
 # Local copies of access-controlled data: never commit
 # (the placeholder folders match the defaults used in the scripts)
 raw_data/
+papers/*/data/
 data/admissions_msoa/
 data/project/
 data/sharing/
